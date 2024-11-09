@@ -1,9 +1,9 @@
 alumnos = {}
 
 alumnos = {
-    "A001": {"nombre": "Juan Pérez", "carrera": "Ingeniería", "edad": 20, "cuatrimestre": 4},
-    "A002": {"nombre": "Ana López", "carrera": "Diseño", "edad": 21, "cuatrimestre": 5},
-    "A003": {"nombre": "Luis Martínez", "carrera": "Negocios", "edad": 22, "cuatrimestre": 6}
+    "A001": {"nombre": "Rose Park", "carrera": "Ingeniería", "edad": 20, "cuatrimestre": 4},
+    "A002": {"nombre": "Lisa Manobal", "carrera": "Diseño", "edad": 21, "cuatrimestre": 5},
+    "A003": {"nombre": "Jisoo kim", "carrera": "Negocios", "edad": 22, "cuatrimestre": 6}
 }
 
 matricula = input("Ingresa la matrícula del alumno: ")
